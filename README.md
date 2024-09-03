@@ -1,4 +1,4 @@
-# quantum-launcher-rs
+# quantum-launcher
 A minimalistic Minecraft launcher written in *Rust* with the *iced* framework for Windows and Linux.
 
 ![Preview](quantum_launcher.png)
@@ -28,8 +28,3 @@ A minimalistic Minecraft launcher written in *Rust* with the *iced* framework fo
 - A built in mod store using the Modrinth API.
 - Managing your aternos servers from within the launcher.
 - macOS support.
-
-# Note on Piracy
-(For legal reasons) I do not encourage or promote piracy in any way. Authentication is not implemented for ease of development and use. If you use this launcher and pirate the game, you are playing at your own risk.
-
-If anyone has any complaint, open an issue in the repo and I will try my best to address it.
